@@ -1,9 +1,8 @@
 # python_tutorial
-Python tutorials for Java programmer
 
-Learn Python here
+Python Django
 
-Learn some of Python libraries for programming artificial Intelligence, machine learning, and deep learning.
+Python libraries for programming artificial Intelligence, machine learning, and deep learning.
 
     NumPy: NumPy
 
